@@ -1,5 +1,5 @@
 {
-  "name": "@bablr/astro-integration-cstml",
+  "name": "@bablr/astro_integration-cstml",
   "description": "An Astro integration for rendering .cstml pages",
   "version": "0.0.0",
   "author": "Conrad Buck<conartist6@gmail.com>",
@@ -11,7 +11,9 @@
     ".": "./lib/index.js"
   },
   "sideEffects": false,
-  "dependencies": {},
+  "dependencies": {
+    "@bablr/vite_plugin-cstml-to-jsx": "0.1.0"
+  },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#49f5952efed27f94ee9b94340eb1563c440bf64e",
     "enhanced-resolve": "^5.12.0",
@@ -21,7 +23,7 @@
     "iter-tools-es": "^7.3.1",
     "prettier": "^2.6.2"
   },
-  "repository": "github:bablr-lang/astro-integration-cstml",
-  "homepage": "https://github.com/bablr-lang/astro-integration-cstml",
+  "repository": "github:bablr-lang/astro_integration-cstml",
+  "homepage": "https://github.com/bablr-lang/astro_integration-cstml",
   "license": "MIT"
 }
