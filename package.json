@@ -1,7 +1,7 @@
 {
   "name": "@bablr/astro_integration-cstml",
   "description": "An Astro integration for rendering .cstml pages",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "author": "Conrad Buck<conartist6@gmail.com>",
   "type": "module",
   "files": [
