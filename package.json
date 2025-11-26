@@ -8,7 +8,9 @@
     "lib"
   ],
   "exports": {
-    ".": "./lib/index.js"
+    ".": "./lib/index.js",
+    "./server.js": "./lib/server.js",
+    "./package.json": "./package.json"
   },
   "sideEffects": false,
   "dependencies": {
