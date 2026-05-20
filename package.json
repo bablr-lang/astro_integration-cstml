@@ -14,7 +14,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/vite_plugin-cstml-to-jsx": "0.2.10"
+    "@bablr/vite_plugin-cstml-to-jsx": "0.3.0"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#23b94fb3bdfdbc3ac7ed9cb58d7979d8f07dce2b",
